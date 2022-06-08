@@ -1,7 +1,24 @@
 body {
-  background-color: black;
+  background-color: rgb(91, 91, 91);
 }
 
 h1 {
-  color: rgb(102, 49, 99);
+  color: rgb(192, 131, 189);
+  font-family: "Verdana";
+}
+
+img {
+  width: 50%;
+  height: auto;
+  border-radius: 20px;
+}
+
+.resizeImg {
+  width: 80%;
+  height: auto;
+  border-radius: 10%;
+}
+
+font {
+  color: rgb(255, 255, 255);
 }
