@@ -1,9 +1,9 @@
 body {
-  background-color: rgb(91, 91, 91);
+  background-color: rgb(236, 200, 176);
 }
 
 h1 {
-  color: rgb(192, 131, 189);
+  color: #5a0190;
   font-family: "Verdana";
 }
 
@@ -19,6 +19,19 @@ img {
   border-radius: 10%;
 }
 
-font {
-  color: rgb(255, 255, 255);
+h2 {
+  font-style: italic;
+  font-family: "Chaparral Pro Light";
+  color: rgb(93, 73, 154);
+  font-size: 35;
+}
+
+h3 {
+  font-family: "Century Gothic";
+  color: #7c2a7f;
+}
+
+li {
+  font-family: "century gothic";
+  color: #716a80;
 }
